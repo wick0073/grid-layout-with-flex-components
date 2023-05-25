@@ -12,6 +12,9 @@ body {
   .emoji h2 {
     margin: 0;
     border-bottom: 2px solid #ccc;
+    margin-right: 1rem;
+    order: 1;
+    text-align: left;
   }
   
   .emoji a {
@@ -19,7 +22,6 @@ body {
     background-color: #781BAA;
     color: white;
     padding: 1rem;
-    border-radius: 8px;
   }
   
   .icon {
